@@ -1,0 +1,7 @@
+Animal https://www.factretriever.com/dinosaur-facts
+Politics https://www.factretriever.com/us-presidents-facts
+Science https://www.factretriever.com/moon-facts
+Science https://www.factretriever.com/outer-space-facts
+Science https://www.factretriever.com/energy-facts
+Nature https://www.factretriever.com/global-warming-facts
+Science https://www.factretriever.com/evolution-facts
